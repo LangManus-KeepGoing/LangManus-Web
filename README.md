@@ -1,17 +1,17 @@
 # LangManus Web UI
-> ⚠️ The original LangManus repository is no longer accessible. I truly loved its elegant design, so this fork aims to keep the spirit of the project alive. Let’s keep this great work going!🚀
+> ⚠️ The original [LangManus](https://github.com/langmanus/langmanus) repository is no longer accessible. I truly loved its elegant design, so this fork aims to keep the spirit of the project alive. Let’s keep this great work going!🚀
 ------
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > Come From Open Source, Back to Open Source
 
-**The default Web UI for [LangManus](https://github.com/langmanus/langmanus).**
+**The default Web UI for [LangManus](https://github.com/LangManus-KeepGoing/LangManus-KeepGoing).**
 
 LangManus is a community-driven AI automation framework that builds upon the incredible work of the open source community. Our goal is to combine language models with specialized tools for tasks like web search, crawling, and Python code execution, while giving back to the community that made this possible.
 
 ## Demo
 
-![demo](https://github.com/langmanus/langmanus/blob/main/assets/demo.gif?raw=true)
+![demo](https://github.com/LangManus-KeepGoing/LangManus-KeepGoing/blob/main/assets/demo.gif?raw=true)
 
 - [View on YouTube](https://youtu.be/sZCHqrQBUGk)
 
@@ -28,7 +28,7 @@ LangManus is a community-driven AI automation framework that builds upon the inc
 
 ### Prerequisites
 
-- [LangManus](https://github.com/langmanus/langmanus)
+- [LangManus](https://github.com/LangManus-KeepGoing/LangManus-KeepGoing)
 - Node.js (v22.14.0+)
 - pnpm (v10.6.2+) as package manager
 
@@ -46,12 +46,12 @@ cp .env.example .env
 
 ### Installation
 
-**IMPORTANT: First, **start the Python server**, see [LangManus](https://github.com/langmanus/langmanus) for more details.**
+**IMPORTANT: First, **start the Python server**, see [LangManus](https://github.com/LangManus-KeepGoing/LangManus-KeepGoing) for more details.**
 
 ```bash
 # Clone the repository
-git clone https://github.com/langmanus/langmanus-web.git
-cd langmanus-web
+git clone https://github.com/LangManus-KeepGoing/LangManus-Web.git
+cd LangManus-Web
 
 # Install dependencies
 pnpm install
