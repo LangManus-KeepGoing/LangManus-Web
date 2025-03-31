@@ -1,5 +1,6 @@
 # LangManus Web UI
-
+> ⚠️ The original LangManus repository is no longer accessible. I truly loved its elegant design, so this fork aims to keep the spirit of the project alive. Let’s keep this great work going!🚀
+------
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > Come From Open Source, Back to Open Source
